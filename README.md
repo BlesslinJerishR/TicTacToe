@@ -1,3 +1,3 @@
 ## TicTacToe
-- Official React Tutorial .
+- Official React Tutorial by creating TicTacToe game.
 #### [ Developer : Blesslin Jerish R ]
